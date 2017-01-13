@@ -1,0 +1,16 @@
+SMAP
+VerificarRequisitos_jsp.java
+JSP
+*S JSP
+*F
++ 0 VerificarRequisitos.jsp
+VerificarRequisitos.jsp
+*L
+1,22:42
+23:64,3
+24,3:67
+27:70,3
+28,3:73
+31:76,3
+32,31:79
+*E
